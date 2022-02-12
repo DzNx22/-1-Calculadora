@@ -23,6 +23,7 @@
     border-radius: 10px;
     height: 48px;
     width: 48px;
+    font-weight: bolder;
 }
 #resultado{
     background-color:white;
@@ -33,4 +34,9 @@
     color: black;
     font-size: 35px;
     padding: 5px;
+}
+.assinatura{
+color: cyan;
+text-align:center;
+font-size: 30px;
 }
